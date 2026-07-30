@@ -1,0 +1,14 @@
+streamlit
+vaderSentiment
+SpeechRecognition
+PyAudio
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+keras
+librosa
+soundfile
